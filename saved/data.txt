@@ -1,0 +1,8 @@
+Layer 1:
+  Weights: (6, 3)
+  Biases: (6,)
+  Activation Function: ReLU
+Layer 2:
+  Weights: (2, 6)
+  Biases: (2,)
+  Activation Function: ReLU
