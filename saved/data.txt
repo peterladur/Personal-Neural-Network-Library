@@ -1,8 +1,8 @@
 Layer 1:
-  Weights: (6, 3)
-  Biases: (6,)
-  Activation Function: ReLU
+  Weights: (4, 2)
+  Biases: (4, 1)
+  Activation Function: Logistic
 Layer 2:
-  Weights: (2, 6)
-  Biases: (2,)
-  Activation Function: ReLU
+  Weights: (1, 4)
+  Biases: (1, 1)
+  Activation Function: Logistic
